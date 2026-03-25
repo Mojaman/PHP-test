@@ -1,5 +1,5 @@
 <?php
-$nanikore = PHPpppppp;
+$nanikore = "PHPpppppp";
 echo "Hello from Render PHP!";
 echo $nanikore;
 ?>
